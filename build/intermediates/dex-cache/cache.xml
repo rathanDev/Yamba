@@ -1,2 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_92926bdef32543af812606dd4be824bb7ce930bd.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_f71cb75166cdadc955dd07e7653a7163dc55b0d0.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b5770e540ba033479a69398e2bc91d50d9a2a350.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2721be9b27c1761de34e8ae009a11e03d5e2351f.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_65a16db16e1104db8f27cddad1dbd74a846ed9c7.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_f9fa5aa98b13fc449681a252e7fcfa8696fd91fc.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_63b8035c16be379e56383f3061e86bca73264dca.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_d4edb9878f869d92dc0d3b5cc2b1a1ccfbb17ea0.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_6ae0a97af7c7175b2e63120119f01d6446707d51.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba2/libs/yambaclientlib.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="564ffd3f1dc6779da46f36e4cb78854ee45e6a1b">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/yambaclientlib_f3fff1d857fb69a17a2b2870de17138ee074570a.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/softwares/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_1f81d12420803f785c7c83535a7f860e0c04dfd9.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_de2009bfe69c0a2ce11f85de72d13546a38312a0.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_32021cb5bd00ce1a84c6205e1381364517ae9a52.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_ad0884de288ac0ff41c360d549c1b6d6c438668b.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_dd4bd5fc976fa450deed3ef576a1d1037d879853.jar" />
+    </item>
+    <item
+        jar="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/media/janarthan/4f263c60-7c16-4690-8815-49d43a7f9069/janarthan/projects/androidRelated/Yamba/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_94062a33d22d5f4050ff9b211936d13bfb69cebb.jar" />
+    </item>
+
+</items>
