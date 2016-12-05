@@ -20,7 +20,7 @@
         android:text="@string/button_tweet" />
 
     <EditText
-        android:id="@+id/editStatus"
+        android:id="@+id/editTextStatus"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_alignParentLeft="true"
@@ -37,7 +37,7 @@
         android:id="@+id/textViewCount"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/editStatus"
+        android:layout_alignLeft="@+id/editTextStatus"
         android:layout_alignTop="@+id/buttonTweet"
         android:text="140"
         android:textAppearance="?android:attr/textAppearanceSmall"/>

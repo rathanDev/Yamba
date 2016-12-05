@@ -34,7 +34,7 @@ public class StatusFragment extends Fragment implements View.OnClickListener {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_status, container, false);
-        editTextStatus = (EditText)view.findViewById(R.id.editStatus);
+        editTextStatus = (EditText)view.findViewById(R.id.editTextStatus);
         buttonTweet = (Button)view.findViewById(R.id.buttonTweet);
         textViewCount = (TextView)view.findViewById(R.id.textViewCount);
         buttonTweet.setOnClickListener(this);
